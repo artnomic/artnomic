@@ -1,4 +1,4 @@
-## Eae, meu nome é Art! ☕💻
+## Olá, tudo bem? Me chamo Art! ;) ☕💻
 
  <div>
   <a href="https://github.com/artnomic">
