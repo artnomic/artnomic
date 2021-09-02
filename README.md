@@ -13,7 +13,7 @@
   <img align="center" alt="Art-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Art-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Art-IDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  <img align="right" alt="Art-GIF" height="128" width="128" src="https://im6.ezgif.com/tmp/ezgif-6-162e9599a9e5.gif">
+  <img align="right" alt="Art-GIF" height="128" width="128" src="https://i.pinimg.com/originals/68/af/98/68af9844e1c9833ef424f5513d25a9b6.gif">
 </div>
 
 ##
