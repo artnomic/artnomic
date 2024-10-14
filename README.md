@@ -23,6 +23,11 @@
   <a href = "mailto:arthurpe44@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artnomic" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5511977191778&text=Oi%20Art%2C%20tudo%20bem%3F%20Encontrei%20o%20seu%20n%C3%BAmero%20no%20GitHub%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 
- ![Snake animation](https://github.com/artnomic/artnomic/blob/output/github-contribution-grid-snake.svg)
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artnomic/artnomic/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artnomic/artnomic/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/artnomic/artnomic/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
